@@ -7,11 +7,11 @@ download_url='https://github.com/Ashutosh2088/OutlierRemover53004/archive/0.1.ta
 author='Ashutosh Rattan',
 author_email='ashutosh544@gmail.com',
 license='MIT',
-packages=['topsis53004'],
+packages=['OutlierRemover53004'],
 zip_safe=False,
 install_requires = [
         'sys',
-        'pandas']
+        'pandas'],
 classifiers=[
     'Development Status :: 3 - Alpha',      
     'Intended Audience :: Developers',      
