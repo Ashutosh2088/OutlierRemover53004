@@ -1,2 +1,4 @@
-This package can be used for removing outliers in data. The data should be passed as a csv file.
-Has the function removeOutlier() which takes name of the csv file as the argument.
+# outlier_remover_tool
+This package can be used for removing outliers in data. It takes csv file as input.
+## How it works
+Call the function removeOutlier() with location of csv file as parameter and rest will be done automatically. It removes outliers using interquartile range method.
